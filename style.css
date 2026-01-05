@@ -1,0 +1,190 @@
+.body{
+	background-color: lavender;
+}
+.menu{
+	width: 100%;
+	height: 40px;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 30px;
+	font-family: Constantia;
+	cursor: pointer;
+}
+
+.menu a{
+	text-decoration: none;
+	color: black;
+
+}
+.image{
+	width: 100%;
+	height: 300px;
+	border-radius: 20px;
+	display: flex;
+}
+.image1{
+	width: 50%;
+	height: 300px;
+	border-radius: 20px;
+}
+.image2{
+	width: 50%;
+	height: 300px;
+	border-radius: 50px;
+	margin-right: 15%;
+	line-height: 1.5;
+	justify-content: text-align;
+}
+.image2 button{
+	background-color: white;
+	font-style: black;
+}
+.image2 button:hover{
+	background-color: skyblue;
+}
+.dharshu{
+	border-radius: 50%;
+	margin-left: 25%;
+	box-shadow: 2px 2px 5px gray;
+}
+.skills{
+	padding: 10px;
+	background-color: lavender;
+	text-align: center;
+	border-radius: 50px;
+	padding-bottom: 20px;
+}
+.skillsh2{
+	font-size: 30px;
+	margin-bottom: 30px;
+	color: black;
+}
+.skills-container{
+	display: flex;
+	justify-content: space-around;
+}
+.skill-box{
+	background-color: white;
+	padding: 10px;
+	border-radius: 50px;
+	font-size: 20px;
+	box-shadow: 2px 2px 5px gray;
+}
+.projects{
+	width: 100%;
+	height: 250px;
+	display: flex;
+}
+.projects1{
+	width: 35%;
+	height: 210px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.projects1 button{
+	background-color: white;
+}
+.projects1 button:hover{
+	background-color: skyblue;
+}
+.projects2{
+	width: 35%;
+	height: 210px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.projects2 button{
+	background-color: white;
+}
+.projects2 button:hover{
+	background-color: skyblue;
+}
+.projects3{
+	width: 35%;
+	height: 210px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.projects3 button{
+	background-color: white;
+}
+.projects3 button:hover{
+	background-color: skyblue;
+}
+.certifications{
+	width: 100%;
+	height: 320px;
+	display: flex;
+}
+.certificates1{
+	width: 35%;
+	height: 230px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.certificates1 a{
+	text-decoration: none;
+	color: darkred;
+}
+.certificates1 button{
+	background-color: white;
+}
+.certificates1 button:hover{
+	background-color: skyblue;
+}
+.certificates2{
+	width: 35%;
+	height: 230px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.certificates2 a{
+	text-decoration: none;
+	color: darkred;
+}
+.certificates2 button{
+	background-color: white;
+}
+.certificates2 button:hover{
+	background-color: skyblue;
+}
+.certificates3{
+	width: 35%;
+	height: 230px;
+	background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    margin: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.certificates3 a{
+	text-decoration: none;
+	color: darkred;
+}
+.certificates3 button{
+	background-color: white;
+}
+.certificates3 button:hover{
+	background-color: skyblue;
+}
+.contacts{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+}
+
